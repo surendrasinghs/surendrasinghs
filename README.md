@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open-source for societal transformation, large scale products and platforms.
 - 🤔 I’m looking for help with finding talented capable tech folks.
 - 💬 Ask me about product leadership, product-led growth, education, open-source, social impact, technology
-- 📫 How to reach me: Twitter [at] SurendraSingh, [LinkedIn](https://www.linkedin.com/in/surendrasinghs/)
+- 📫 How to reach me: [Twitter/SurendraSingh](https://twitter.com/SurendraSingh), [LinkedIn/surendrasinghs](https://www.linkedin.com/in/surendrasinghs/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love taking pictures, swimming in the sea, and going for a run or a ride. 
 
