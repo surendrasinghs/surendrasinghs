@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently leading product and technology at [Dhiway](https://dhiway.com) github.com/Dhiway
+- 🔭 I’m currently leading product and technology at [Dhiway](https://dhiway.com) (https://github.com/Dhiway)
 
 - 🫶🏼 I volunteer in Finternet, Beckn, Sunbird, ONEST Network, People+AI, Agami (OpenNyAI), and CORD Network community
 
