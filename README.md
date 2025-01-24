@@ -1,14 +1,19 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently leading product and growth of [Sunbird](https://sunbird.org) as the lead evangelist
-- 🌱 I’m currently learning to grow and build a community around Sunbird
-- 👯 I’m looking to collaborate on open-source for societal transformation, large scale products and platforms.
-- 🤔 I’m looking for help with finding talented capable tech folks.
-- 💬 Ask me about product leadership, product-led growth, education, open-source, social impact, technology
+- 🔭 I’m currently leading product and technology at [Dhiway](https://dhiway.com) github.com/Dhiway
+
+- 🫶🏼 I volunteer in Finternet, Beckn, Sunbird, ONEST Network, People+AI, Agami (OpenNyAI), and CORD Network community
+
+- 🧩 I have led product(s) at EkStep Foundation for [Sunbird](https://sunbird.org) and [ONEST](https://onest.network)
+
+- 🌱 I’m currently learning to build and grow a community around real-world use-cases of blockchain, verifiable credentials, data tokenization, registries and AI
+
+- 👯 I’m looking to collaborate on building prototypes using cutting-edge technology
+
 - 📫 How to reach me: [Twitter/SurendraSingh](https://twitter.com/SurendraSingh), [LinkedIn/surendrasinghs](https://www.linkedin.com/in/surendrasinghs/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love taking pictures, swimming in the sea, and going for a run or a ride. 
+
+- ⚡ Fun fact: I love taking pictures, swimming in the sea, and going for a run or a ride
 
 
 <!--
@@ -24,4 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 💬 Ask me about product leadership, decentralization, product-led growth, education, open-source, social impact, technology
+- 😄 Pronouns: He/Him
 -->
